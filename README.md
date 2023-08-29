@@ -17,9 +17,13 @@ SQL Query File: EmployeeSQL/Data Analysis.sql
 
 ## Getting Started
 Clone the repository
+
 Navigate to the EmployeeSQL directory.
+
 Run the SQL schema file to set up the database.
+
 Import data from the six CSV files.
+
 Execute the SQL query file for data analysis.
 
 
