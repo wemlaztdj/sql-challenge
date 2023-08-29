@@ -10,6 +10,8 @@ Data Analysis
 
 ## Files
 ERD Diagram File: EmployeeSQL/ERD.png
+![image](https://github.com/wemlaztdj/sql-challenge/assets/19890554/8a7d6a48-ef2d-4f01-9b0b-e0444e5dd2db)
+
 
 SQL Schema File: EmployeeSQL/schemata.sql
 
